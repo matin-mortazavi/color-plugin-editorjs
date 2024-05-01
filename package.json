@@ -1,0 +1,22 @@
+{
+  "name": "color-plugin-tool-editorjs",
+  "version": "1.0.0",
+  "description": "inline tool plugin for text color in editor js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matin-mortazavi/ccolor-plugin-tool-editorjs.git"
+  },
+  "keywords": [
+    "color-plugin-editorjs"
+  ],
+  "author": "matin mortazavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matin-mortazavi/ccolor-plugin-tool-editorjs/issues"
+  },
+  "homepage": "https://github.com/matin-mortazavi/ccolor-plugin-tool-editorjs#readme"
+}
