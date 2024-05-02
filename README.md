@@ -16,7 +16,8 @@ const editor = new EditorJS({
       class : ColorTool ,
       config : {
         icon : //your icon path (SVG ,image , ...)  OPTIONAL
-  }, 
+    }, 
+  }
 
 //...rest of your code
 })
