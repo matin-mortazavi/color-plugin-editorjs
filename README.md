@@ -5,7 +5,7 @@ with help of this package you be able to change your text colors
 ## How to use 
 
 ```javascript
-import { ColorTool } from "color-plugin-editorjs"
+import ColorTool from "color-plugin-editorjs"
 
 
 const editor = new EditorJS({ 
