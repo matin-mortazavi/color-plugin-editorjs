@@ -26,5 +26,5 @@ const editor = new EditorJS({
 ## Installation
 
 ```bash
-npm install color-plugin-editorjs
+npm install color-plugin-tool-editorjs
 ```
